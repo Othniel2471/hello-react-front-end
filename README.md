@@ -47,6 +47,12 @@ This project is built with React.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 💻 RAILS REPO <a name="rails-repo"></a>
+
+- Rails repo: (https://github.com/Othniel2471/hello-rails-back-end.git)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
